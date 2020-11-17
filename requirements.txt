@@ -1,0 +1,4 @@
+PyPDF2==1.26.0
+PyPDF3==1.0.1
+PySimpleGUI==4.32.1
+tqdm==4.51.0
